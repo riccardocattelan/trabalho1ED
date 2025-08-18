@@ -13,7 +13,7 @@ public class Main {
                     "%n 4 - Verificar se é palíndromo %n");
             int opcao=scanner.nextInt();
             scanner.nextLine();
-            switch(opcao){
+            switch(opcao){ //o usuario vai escolher o que fazer no codigo
                 case 1:
                     pilha.inserir();
                     break;
@@ -31,25 +31,5 @@ public class Main {
             System.out.printf("%n Deseja continuar? %n Sim - Digite 's' %n Não - Aperte Enter %n");
             resposta=scanner.nextLine();
         }
-//        pilha.inserir();
-//        pilha.inserir();
-//        pilha.inserir();
-//        String topo=pilha.top();
-//        System.out.println(topo);
-//        pilha.inserir();
-//        boolean ver=pilha.verificacao();
-//        System.out.println(ver);
-//        pilha.deletar();
-//        pilha.inserir();
-//        topo=pilha.top();
-//        System.out.println(topo);
-//        boolean vaziaoun=pilha.vazia();
-//        System.out.println(vaziaoun);
-//        pilha.deletar();
-//        pilha.deletar();
-//        pilha.deletar();
-//        pilha.deletar();
-//        vaziaoun=pilha.vazia();
-//        System.out.println(vaziaoun);
     }
 }
