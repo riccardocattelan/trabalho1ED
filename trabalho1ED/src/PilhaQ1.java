@@ -1,3 +1,6 @@
+//Riccardo André Cattelan
+//Edivaldo Sousa Pinheiro
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -57,7 +60,7 @@ public class PilhaQ1 {
             return true; //caso nao houver nenhuma divergencia, entao retorna true (é palíndromo)
         } else { //caso a pilha estiver vazia (inicio -1 e topo -1), vai retornar mensagem de erro
             System.out.println("Pilha vazia! Não tem como fazer essa verificação");
-            return false; //retorna que nao é um palíndromo, já que é uma pilha vazia
+            return true; //retorna que é um palíndromo, já que é uma pilha vazia
         }
     }
 

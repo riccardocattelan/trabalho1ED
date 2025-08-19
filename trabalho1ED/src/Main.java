@@ -1,3 +1,6 @@
+//Riccardo André Cattelan
+//Edivaldo Sousa Pinheiro
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
