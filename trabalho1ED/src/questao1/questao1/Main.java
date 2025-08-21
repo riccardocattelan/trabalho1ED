@@ -1,7 +1,8 @@
+package questao1;
+
 //Riccardo André Cattelan
 //Edivaldo Sousa Pinheiro
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
