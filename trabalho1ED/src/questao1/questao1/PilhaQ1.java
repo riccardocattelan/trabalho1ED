@@ -22,7 +22,7 @@ public class PilhaQ1 {
         Scanner scanner = new Scanner(System.in);
         topo++; //caso for o primeiro item, o topo vai ser 0 (-1 -> 0, comeco do arraylist) e adicionado um valor, 
         // depois vai ser index 1 e adicionado um valor, e assim continua
-        System.out.println("insira um valor"); //usuario vai inserir o valor a ser adicionado no topo
+        System.out.println("insira uma letra"); //usuario vai inserir o valor a ser adicionado no topo
         String valor = scanner.nextLine();
         elementos.add(valor); //adicionando valor no novo index
     }
