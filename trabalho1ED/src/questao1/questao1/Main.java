@@ -1,7 +1,7 @@
 package questao1;
 
-//Riccardo André Cattelan
-//Edivaldo Sousa Pinheiro
+//Riccardo André Cattelan - 202411140005
+//Edivaldo Sousa Pinheiro - 202411140027
 
 import java.util.Scanner;
 
